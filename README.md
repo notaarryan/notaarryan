@@ -10,4 +10,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=notaarryan&theme=prussian&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=notaarryan&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=notaarryan&theme=prussian&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🌐 Portfolio
+Check out my personal portfolio for projects, experience, and more:  
+[notaarryan.github.io/Portfolio](https://notaarryan.github.io/Portfolio/)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
