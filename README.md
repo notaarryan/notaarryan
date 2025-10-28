@@ -13,5 +13,5 @@
 
 ## 🌐 Portfolio
 Check out my personal portfolio for projects, experience, and more:  
-[notaarryan.github.io/Portfolio](https://notaarryan.github.io/Portfolio/)
+[https://aryanparmarporfolio.vercel.app/](https://aryanparmarporfolio.vercel.app/)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
